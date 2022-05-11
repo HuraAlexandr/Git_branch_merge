@@ -1,0 +1,43 @@
+============================================
+		Bag Report 1
+============================================
+
+Summary - People don't do their homework in time
+------------------------------------------------
+Project - Group_29
+------------------------------------------------
+Component - Course`s homeworks
+------------------------------------------------
+Version - 11.05.2022 real time
+------------------------------------------------
+Severity - S3(Major)
+------------------------------------------------
+Priority - P2
+------------------------------------------------
+Status - Open
+------------------------------------------------
+Author - Hura Alexander
+------------------------------------------------
+Assigned to - Hura Alexander
+------------------------------------------------
+
+===========
+Description
+===========
+
+Steps to reproduce - 
+	1) Run https://github.com/HuraAlexandr
+	2) Go to repository
+
+Result -
+	1) You see 5 repositories
+
+Expexted result-
+	1) You mast to see 7 repository
+
+
+================
+Attachment files
+================
+
+----------------	
